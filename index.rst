@@ -77,17 +77,7 @@ This system documentation for Zammad is organized into a couple of sections:
    migration-zendesk
 
 
-.. _channels-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: Channels
-
-   channel-email
-
-
-.. _admin-webfrontend:
+   .. _admin-webfrontend:
 
 .. toctree::
    :maxdepth: 3
