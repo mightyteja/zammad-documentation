@@ -11,7 +11,7 @@ Add Zammad, Elasticsearch & epel-release RPM repos and install RPM
 
  sudo yum -y install epel-release wget
  sudo wget -O /etc/yum.repos.d/zammad.repo https://dl.packager.io/srv/zammad/zammad/stable/installer/el/7.repo
-
+ 
  echo "[elasticsearch-5.x]
  name=Elasticsearch repository for 5.x packages
  baseurl=https://artifacts.elastic.co/packages/5.x/yum
